@@ -5,6 +5,7 @@ import os
 import requests
 import random
 import json
+import time
 
 PREFIX = '+'
 OPENAI_ENDPOINT = 'https://api.openai.com/v1/chat/completions'
